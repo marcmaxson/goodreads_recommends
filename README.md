@@ -5,4 +5,4 @@ testing pandas for finding similar books
 https://github.com/reedsy/challenges/tree/master/data-scientist 
 # then change the PATH in the ipynb file to point to the /data folder. 
 
-Also, see requirements.txt. All of these are native to anaconda python (3+) but not to vanila python.
+Also, see requirements.txt. All importsare native to anaconda python (3+) but not to vanila python. Specifically: pandas DataFrames.
